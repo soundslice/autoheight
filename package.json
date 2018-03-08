@@ -1,0 +1,13 @@
+{
+  "name": "iframe-autoheight",
+  "version": "1.0.0",
+  "description": "Calculate iframe height to max it out",
+  "main": "autoheight.js",
+  "repository": "git@github.com:soundslice/autoheight.git",
+  "author": "Adrian Holovaty",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
